@@ -11,3 +11,7 @@ flags:
         - default: true
           key: k2
           attachment: {}
+segments:
+    - key: q
+      name: q
+      match_type: ALL_MATCH_TYPE
