@@ -9,7 +9,5 @@ flags:
       enabled: false
       variants:
         - default: true
-          key: k1
-          attachment: {}
-        - key: k2
+          key: k2
           attachment: {}
